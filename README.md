@@ -5,7 +5,7 @@ Here are different project for Samsung Watch Face Studio. You can import them in
 
 ## Instruction for import and set up on Samsung Galaxy Watch
 1. Download [Watch Face Studio](https://developer.samsung.com/watch-face-studio/overview.html).
-2. Open project.
+2. Import only project file (WFS).
 3. Enable developer mode on the watch by clicking "software information" > "soft version" multiple times.
 4. Enable debugging on the watch (ADB + wireless debug).
 5. Connect watch and program by clicking "Run on device".
